@@ -8,7 +8,7 @@ and understand modern surveillance threats in physical environments.
 
 ## Active Projects
 
-- **CycoNerd Security Labs LYNCEUS^TM^ TCSM Scanalyzer v1**
+- **CycoNerd Security Labs LYNCEUS<sup>TM</sup> TCSM Scanalyzer v1**
   A handheld, computer-vision–driven privacy defense scanner combining
   optical, infrared, and AI-assisted analysis.
 
