@@ -8,16 +8,16 @@ and understand modern surveillance threats in physical environments.
 
 ## Active Projects
 
-- **CycoNerd Security Tricorder v1**
+- **CycoNerd Security Labs LYNCEUS^TM^ TCSM Scanalyzer v1**
   A handheld, computer-vision–driven privacy defense scanner combining
   optical, infrared, and AI-assisted analysis.
 
 ## Repositories
 
-- `tricorder-v1-docs` — System architecture, specifications, threat models
-- `tricorder-v1-firmware` — Embedded firmware (Raspberry Pi Pico)
-- `tricorder-v1-host` — Windows host application
-- `tricorder-v1-cv-ml` — Computer vision & ML pipelines
+- `scanalyzer-v1-docs` — System architecture, specifications, threat models
+- `scanalyzer-v1-firmware` — Embedded firmware (Raspberry Pi Pico)
+- `scanalyzer-v1-host` — Windows host application
+- `scanalyzer-v1-cv-ml` — Computer vision & ML pipelines
 
 ## Status
 
